@@ -1,8 +1,8 @@
 # PlayWithEcmaScript6
 
-##EcmaScript 6 Examples
+## EcmaScript 6 Examples
 
-###Topics : 
+### Topics : 
 	1. Let Varible
 	2. Arrow Function
 	3. Template Literals
